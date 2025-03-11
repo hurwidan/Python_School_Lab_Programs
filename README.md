@@ -15,3 +15,7 @@ Lab Work 5 - Scramble_String.py
 Lab Project 3 - Hangman_With_Functions.py
 
 Lab Work 6 - Collect_Saving_Pet_Info.py
+
+Lab Project 4 - Class_Registration_System.zip
+
+Lab Work 7 - cart.py
