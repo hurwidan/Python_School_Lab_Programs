@@ -19,3 +19,5 @@ Lab Work 6 - Collect_Saving_Pet_Info.py
 Lab Project 4 - Class_Registration_System.zip
 
 Lab Work 7 - cart.py
+
+Lab Work 8 - ElectricVehicle.py
